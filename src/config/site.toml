@@ -151,8 +151,8 @@ text = [
 ]
 
 [config.home.intro]
-title = "welcome"
-name = "Badger Box"
+title = "welcome "
+name = "badger"
 body = [
   "The name combines \"Navigation\" and \"Portfolio\".",
   "Navfolio prioritizes lightweight organization, seamless reading, and developer-friendly aesthetics.",
