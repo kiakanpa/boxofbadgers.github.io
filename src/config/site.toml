@@ -172,27 +172,27 @@ dateArchiveBaseHref = ""
 
 [[config.home.navigation]]
 icon = "compass"
-title = "Portfolio"
-subtitle = "Selected work and case studies"
-href = "https://astro.navfolio.site/"
+title = "Website"
+subtitle = "Main boxofbadgers website..."
+href = "https://boxofbadgers.com/"
 
 [[config.home.navigation]]
 icon = "pen"
 title = "Blog"
-subtitle = "Essays, notes, and field reports"
+subtitle = "Writing, notes, and field reports"
 href = "/blog"
 
 [[config.home.navigation]]
 icon = "briefcase"
-title = "Resume"
-subtitle = "Career profile and experience"
-href = "https://github.com/dodolalorc/navfolio"
+title = "TBD"
+subtitle = "TBD"
+href = ""
 
 [[config.home.navigation]]
 icon = "github"
-title = "Open Source"
-subtitle = "Code, experiments, and tools"
-href = "https://github.com/dodolalorc/astro-navfolio"
+title = "TBD"
+subtitle = "TBD"
+href = ""
 
 [[config.home.links]]
 label = "GitHub"
