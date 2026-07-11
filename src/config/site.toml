@@ -227,7 +227,7 @@ copy = true
 [[config.home.links]]
 label = "QQ"
 icon = "qq"
-tooltip = "123456789"
+tooltip = ""
 copy = true
 
 [[config.home.links]]
